@@ -74,4 +74,4 @@ When executing methods that require signing (and for methods that require authen
 }).listen(8001);  
 
 ### A screenshot of the public timeline
-![Public timeline](https://github.com/RollForReflex/ConsoleFinal/blob/master/stream.png "Node.js project")
+![Public timeline](https://github.com/RollForReflex/ConsoleFinal/blob/master/Stream.png "Node.js project")
