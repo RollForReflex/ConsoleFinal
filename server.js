@@ -52,6 +52,6 @@ http.createServer(function(request, response) {
         }, 10000);  
   
     }  
-}).listen(1337);  
+}).listen(8001);  
   
-sys.puts("Server running at http://localhost:1337/");
+sys.puts("Server running at http://localhost:8001/");
